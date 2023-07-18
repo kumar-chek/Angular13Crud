@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  //in bootstrap we do display flex space between
+  table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  // to make the container center
+  .container{
+    max-width: 1200px;
+    margin: 0 auto;
+  }

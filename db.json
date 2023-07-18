@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruit",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "This is fresh and healthy.",
+      "date": "2023-07-17T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruit",
+      "freshness": "Brand New",
+      "price": 68,
+      "comment": "Good Product",
+      "date": "2023-07-17T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
