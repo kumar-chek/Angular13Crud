@@ -8,6 +8,8 @@ export class ApiService {
 
   constructor(private http: HttpClient) { }
 
+  // we need to put these url in environments file and crearte a base url.
+
   postProduct(data : any){
     return this.http.post<any>("http://localhost:3000/productList/",data);
   }
